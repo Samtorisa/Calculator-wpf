@@ -16,10 +16,10 @@
 
             
 
-            <Button Grid.Row="1" Content="7" Background="LightBlue" FontSize="18" Click="ButtonNumber" />
-                <Button Grid.Row="1" Content="8" Background="LightBlue" FontSize="18" Click="ButtonNumber"/>
-                <Button  Grid.Row="1" Content="9" Background="LightBlue" FontSize="18" Click="ButtonNumber"/>
-                <Button  Grid.Row="1" Content="/" Background="Orange" FontSize="18" Click="OperatorClick" />
+            <Button  Content="7" Background="LightBlue" FontSize="18" Click="ButtonNumber" />
+                <Button  Content="8" Background="LightBlue" FontSize="18" Click="ButtonNumber"/>
+                <Button   Content="9" Background="LightBlue" FontSize="18" Click="ButtonNumber"/>
+                <Button   Content="/" Background="Orange" FontSize="18" Click="OperatorClick" />
 
 
             <Button Content="4" Background="LightBlue" FontSize="18" Click="ButtonNumber"/>
